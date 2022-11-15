@@ -14,7 +14,7 @@ import java.util.List;
 @RequestMapping("/stock")
 @CrossOrigin("*")
 public class StockRestController {
-
+//STO
 	@Autowired
 	IStockService stockService;
 
