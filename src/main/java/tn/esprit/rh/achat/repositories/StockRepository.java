@@ -10,7 +10,7 @@ import java.util.List;
 @Repository
 public interface StockRepository extends JpaRepository<Stock, Long> {
 	
-
+//rep
 	
 	
 	
