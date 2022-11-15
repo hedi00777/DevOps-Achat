@@ -3,7 +3,7 @@ package tn.esprit.rh.achat.services;
 import tn.esprit.rh.achat.entities.Stock;
 
 import java.util.List;
-
+//iser
 public interface IStockService {
 
 	List<Stock> retrieveAllStocks();
