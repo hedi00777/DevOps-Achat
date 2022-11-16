@@ -13,7 +13,7 @@ import java.util.List;
 @RequestMapping("/secteurActivite")
 @CrossOrigin("*")
 public class SecteurActiviteController {
-
+//oop
 	@Autowired
 	ISecteurActiviteService secteurActiviteService;
 	
